@@ -8,7 +8,7 @@
                 <span id="linkedin_logo">
                     <a href="https://linkedin.com/in/joseph-casto-jr/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
                     </a>
-                    <img alt="Banner" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20development;Cybersecurity;Network%20Engineering;20%2B%20years%20of%20technology%20experience;Always%20learning%20new%20things&font=Merriweather%20Sans%20Code&center=true&width=640&height=45&color=yellow&vCenter=true&pause=1000&size=25"/>
+                    <img alt="Banner" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20development;Cybersecurity;Network%20Engineering;20%2B%20years%20of%20technology%20experience;Always%20learning%20new%20things&font=Merriweather%20Sans%20Code&center=true&width=640&height=45&color=yellow&vCenter=false&pause=1000&size=25"/>
                 </span>
             </h1>
         </div>
