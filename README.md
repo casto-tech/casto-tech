@@ -12,12 +12,8 @@
             </h1>
         </div>
     </div>
-    <div>
-        <p>
         >[!NOTE]
         >Proven expertise in driving infrastructure resiliency, automation, and efficiency. Adept at leading distributed teams, orchestrating >cloud operations enhancements, and implementing secure software development practices. Known for pioneering the integration of >emerging technologies into organizations’ cybersecurity, engineering, and networking practices; fortifying organizational security >through AI-driven threat detection and management through automation. Demonstrated success in being customer-obsessed, guiding team >vision, teamwork, best practices, and priorities, while cultivating an environment of empowerment, ownership, belonging, and having >a growth mindset. Extensive experience in managing cybersecurity, engineering, and networking teams; ensuring vigilant third-party >oversight, project management, governance, and data-loss prevention. Skilled in directing infrastructure management, automation, and >efficiency technology; and establishing comprehensive feedback loops post-incident/event which drive continuous improvement to >incident response and business continuity plans.
-        </p>
-    </div>
     <div>
         <table>
             <tr>
