@@ -3,7 +3,7 @@
 <body>
     <div>
         <div>
-            <h1>
+            <h1 style="color: #00bfff;">
                 Joseph Casto, Jr.
                 <span id="linkedin_logo">
                     <a href="https://linkedin.com/in/joseph-casto-jr/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
