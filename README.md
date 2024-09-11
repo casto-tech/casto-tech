@@ -127,8 +127,14 @@
     </table>
     <div align="center">
         <h1>GitHub Stats:</h1>
-        <img alt="Github Profile Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=casto-tech"/>
-        <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=casto-tech"/>
-        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=casto-tech"/>
-        <img alt="Trophy Stats" src="https://github-profile-trophy.vercel.app/?username=casto-tech&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
+            <div>
+                <img alt="Github Profile Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=casto-tech"/>
+            </div>
+            <div>
+                <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=casto-tech"/>
+                <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=casto-tech"/>
+            </div>
+            <div align="center">
+                <img alt="Trophy Stats" src="https://github-profile-trophy.vercel.app/?username=casto-tech&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
+            </div>
     </div>
