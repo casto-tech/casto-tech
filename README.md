@@ -15,6 +15,38 @@
     </div>
     <table>
         <tr>
+            <th id="cloud_services" colspan="2">
+                CLOUD SERVICES
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat-square&logo=amazon-web-services&logoColor=FF9900"/>
+            </th>
+            <th>
+                <img alt="Google_Cloud" src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=FF7143"/>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <img alt="S3" src="https://img.shields.io/badge/-Amazon%20S3-232f3e?style=flat-square&logo=amazon-s3&logoColor=FF9900"/>
+                <img alt="Route_53" src="https://img.shields.io/badge/-Route%2053-232f3e?style=flat-square&logo=amazon-route-53&logoColor=FF9900"/>
+                <img alt="Cloudwatch" src="https://img.shields.io/badge/-Cloudwatch-232f3e?style=flat-square&logo=amazon-cloudwatch&logoColor=FF9900"/>
+                <img alt="EC2" src="https://img.shields.io/badge/-Amazon%20EC2-232f3e?style=flat-square&logo=amazon-ec2&logoColor=FF9900"/>
+                <img alt="IAM" src="https://img.shields.io/badge/-Amazon%20IAM-232f3e?style=flat-square&logo=amazoniam&logoColor=FF9900"/>
+                <img alt="Elastic_Beanstalk" src="https://img.shields.io/badge/-Elastic%20Beanstalk-232f3e?style=flat-square&logo=amazonsimpleemailservice&logoColor=FF9900"/>
+                <img alt="Gognito" src="https://img.shields.io/badge/-Cognito-232f3e?style=flat-square&logo=amazoncognito&logoColor=FF9900"/>
+            </td>
+            <td>
+                <img alt="Google_Workspace" src="https://img.shields.io/badge/-Google%20WorkSpace-4285F4?style=flat-square&logo=google&logoColor=FF7143"/>
+                <img alt="Google_BigQuery" src="https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=FF7143"/>
+                <img alt="Google_Bigtable" src="https://img.shields.io/badge/-Google%20Big%20Table-4285F4?style=flat-square&logo=googlebigtable&logoColor=FF7143"/>
+                <img alt="Google_Cloud_Storage" src="https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?style=flat-square&logo=googlecloudstorage&logoColor=FF7143"/>
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th>
                 LANGUAGES
             </th>
@@ -78,38 +110,6 @@
     </table>
     <table>
         <tr>
-            <th id="cloud_services" colspan="2">
-                CLOUD SERVICES
-            </th>
-        </tr>
-        <tr>
-            <th>
-                <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat-square&logo=amazon-web-services&logoColor=FF9900"/>
-            </th>
-            <th>
-                <img alt="Google_Cloud" src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=FF7143"/>
-            </th>
-        </tr>
-        <tr>
-            <td>
-                <img alt="S3" src="https://img.shields.io/badge/-Amazon%20S3-232f3e?style=flat-square&logo=amazon-s3&logoColor=FF9900"/>
-                <img alt="Route_53" src="https://img.shields.io/badge/-Route%2053-232f3e?style=flat-square&logo=amazon-route-53&logoColor=FF9900"/>
-                <img alt="Cloudwatch" src="https://img.shields.io/badge/-Cloudwatch-232f3e?style=flat-square&logo=amazon-cloudwatch&logoColor=FF9900"/>
-                <img alt="EC2" src="https://img.shields.io/badge/-Amazon%20EC2-232f3e?style=flat-square&logo=amazon-ec2&logoColor=FF9900"/>
-                <img alt="IAM" src="https://img.shields.io/badge/-Amazon%20IAM-232f3e?style=flat-square&logo=amazoniam&logoColor=FF9900"/>
-                <img alt="Elastic_Beanstalk" src="https://img.shields.io/badge/-Elastic%20Beanstalk-232f3e?style=flat-square&logo=amazonsimpleemailservice&logoColor=FF9900"/>
-                <img alt="Gognito" src="https://img.shields.io/badge/-Cognito-232f3e?style=flat-square&logo=amazoncognito&logoColor=FF9900"/>
-            </td>
-            <td>
-                <img alt="Google_Workspace" src="https://img.shields.io/badge/-Google%20WorkSpace-4285F4?style=flat-square&logo=google&logoColor=FF7143"/>
-                <img alt="Google_BigQuery" src="https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=FF7143"/>
-                <img alt="Google_Bigtable" src="https://img.shields.io/badge/-Google%20Big%20Table-4285F4?style=flat-square&logo=googlebigtable&logoColor=FF7143"/>
-                <img alt="Google_Cloud_Storage" src="https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?style=flat-square&logo=googlecloudstorage&logoColor=FF7143"/>
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <th>
                 OTHER TECH
             </th>
@@ -131,3 +131,14 @@
     <img alt="Trophy Stats" src="https://github-profile-trophy.vercel.app/?username=casto-tech"/>
 </body>
 </html>
+# Joseph Casto, Jr.
+
+
+
+*Full-stack development*  *Cybersecurity*  *Network Engineering*  *20%+ years of technology experience*  *Always learning new things*
+
+---
+
+**Languages** | **Frameworks**
+------- | --------
+[![Python](https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=python&logoColor=ffde57)](https://www.python.org/) | [![Flask](https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask&logoColor=black)](https://flask.palletsprojects.com/) ... (and so on)
