@@ -15,7 +15,7 @@
             </span>
         </h1>
             <p>
-                <img alt="Banner" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20development;Cybersecurity;Network%20Engineering;20%2B%20years%20of%20technology%20experience;Always%20learning%20new%20things&font=Merriweather%20Sans%20Code&center=true&width=640&height=45&color=cc6600&vCenter=true&pause=1000&size=25"/>
+                <img alt="Banner" id="banner" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20development;Cybersecurity;Network%20Engineering;20%2B%20years%20of%20technology%20experience;Always%20learning%20new%20things&font=Merriweather%20Sans%20Code&center=true&width=640&height=45&color=ffdc40&vCenter=true&pause=1000&size=25"/>
             </p>
     </div>
     <table id="languages_frameworks">
