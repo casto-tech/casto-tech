@@ -92,39 +92,41 @@
             </td>
         </tr>
     </table>
-    <table>
-        <tr>
-            <th>
-                OPERATING SYSTEMS
-            </th>
-        </tr>
-        <tr>
-            <td>
-                <img alt="Linux" src="https://img.shields.io/badge/-Linux-ffcc33?style=flat-square&logo=linux&logoColor=000000"/>
-                <img alt="Kali" src="https://img.shields.io/badge/-Kali%20Linux-06051F?style=flat-square&logo=kalilinux&logoColor=white"/>
-                <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=06051F"/>
-                <img alt="Windows" src="https://img.shields.io/badge/-Windows-00a1f1?style=flat-square&logo=&logoColor=E95420"/>
-                <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-ffffff?style=flat-square&logo=apple&logoColor=black"/>
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th>
-                OTHER TECH
-            </th>
+    <div>
+        <table>
+            <tr>
+                <th>
+                    OPERATING SYSTEMS
+                </th>
+            </tr>
             <tr>
                 <td>
-                    <img alt="Dot_Net" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-                    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-                    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-                    <img alt="Actions" src="https://img.shields.io/badge/Github%20Actions-282a2e?flat-square&logo=githubactions&logoColor=367cf"/>
-                    <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
-                    <img alt="VS_Code" src="https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=code&logoColor=white"/>
+                    <img alt="Linux" src="https://img.shields.io/badge/-Linux-ffcc33?style=flat-square&logo=linux&logoColor=000000"/>
+                    <img alt="Kali" src="https://img.shields.io/badge/-Kali%20Linux-06051F?style=flat-square&logo=kalilinux&logoColor=white"/>
+                    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=06051F"/>
+                    <img alt="Windows" src="https://img.shields.io/badge/-Windows-00a1f1?style=flat-square&logo=&logoColor=E95420"/>
+                    <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-ffffff?style=flat-square&logo=apple&logoColor=black"/>
                 </td>
             </tr>
-        </tr>
-    </table>
+        </table>
+        <table>
+            <tr>
+                <th>
+                    OTHER TECH
+                </th>
+                <tr>
+                    <td>
+                        <img alt="Dot_Net" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+                        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+                        <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+                        <img alt="Actions" src="https://img.shields.io/badge/Github%20Actions-282a2e?flat-square&logo=githubactions&logoColor=367cf"/>
+                        <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
+                        <img alt="VS_Code" src="https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=code&logoColor=white"/>
+                    </td>
+                </tr>
+            </tr>
+        </table>
+    </div>
     <div align="center">
         <h1>GitHub Stats:</h1>
             <div>
