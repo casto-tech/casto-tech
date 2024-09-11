@@ -1,24 +1,19 @@
 <html>
-<head>
-<link rel="stylesheet" href="style.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
-</head>
+
 <body>
-    <div id="header_content">
-        <h1>
-            Joseph Casto, Jr.
-            <span id="linkedin_logo">
-                <a href="https://linkedin.com/in/joseph-casto-jr/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-                </a>
-            </span>
-        </h1>
-            <p>
-                <img alt="Banner" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20development;Cybersecurity;Network%20Engineering;20%2B%20years%20of%20technology%20experience;Always%20learning%20new%20things&font=Merriweather%20Sans%20Code&center=true&width=640&height=45&color=cc6600&vCenter=true&pause=1000&size=25"/>
-            </p>
+    <div>
+        <div>
+            <h1>
+                Joseph Casto, Jr.
+                <span id="linkedin_logo">
+                    <a href="https://linkedin.com/in/joseph-casto-jr/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+                    </a>
+                    <img alt="Banner" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20development;Cybersecurity;Network%20Engineering;20%2B%20years%20of%20technology%20experience;Always%20learning%20new%20things&font=Merriweather%20Sans%20Code&center=true&width=640&height=45&color=yellow&vCenter=true&pause=1000&size=25"/>
+                </span>
+            </h1>
+        </div>
     </div>
-    <table id="languages_frameworks">
+    <table>
         <tr>
             <th>
                 LANGUAGES
@@ -28,7 +23,7 @@
             </th>
         </tr>
         <tr>
-            <td class="languages">
+            <td>
                 <img alt="Python" src="https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=python&logoColor=ffde57"/>
             </td>
             <td>
@@ -41,7 +36,7 @@
         <tr>
         </tr>
         <tr>
-            <td class="languages">
+            <td>
                 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=yellow"/>
             </td>
             <td>
@@ -53,7 +48,7 @@
             </td>
         </tr>
             <tr>
-            <td class="languages">
+            <td>
                 <img alt="Other" src="https://img.shields.io/badge/-Other-f65314?style=flat-square&logo=git&logoColor=00a1f1"/>
             </td>
             <td>
@@ -65,7 +60,7 @@
             </td>
         </tr>
     </table>
-    <table id="operating_systems">
+    <table>
         <tr>
             <th>
                 OPERATING SYSTEMS
@@ -81,13 +76,13 @@
             </td>
         </tr>
     </table>
-    <table id="cloud_providers">
+    <table>
         <tr>
             <th id="cloud_services" colspan="2">
                 CLOUD SERVICES
             </th>
         </tr>
-        <tr id="cloud_header_row">
+        <tr>
             <th>
                 <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat-square&logo=amazon-web-services&logoColor=FF9900"/>
             </th>
@@ -115,7 +110,7 @@
     </table>
     <table>
         <tr>
-            <th id="other_tech">
+            <th>
                 OTHER TECH
             </th>
             <tr>
