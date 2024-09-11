@@ -3,8 +3,8 @@
 <body>
     <div>
         <div>
-            <h1 style="color: #00bfff;">
-                Joseph Casto, Jr.
+            <h1>
+                $\color{#00bfff}{Joseph\ Casto}$
                 <span id="linkedin_logo">
                     <a href="https://linkedin.com/in/joseph-casto-jr/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
                     </a>
@@ -131,14 +131,5 @@
     <img alt="Trophy Stats" src="https://github-profile-trophy.vercel.app/?username=casto-tech"/>
 </body>
 </html>
-# Joseph Casto, Jr.
 
-
-
-*Full-stack development*  *Cybersecurity*  *Network Engineering*  *20%+ years of technology experience*  *Always learning new things*
-
----
-
-**Languages** | **Frameworks**
-------- | --------
-[![Python](https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=python&logoColor=ffde57)](https://www.python.org/) | [![Flask](https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask&logoColor=black)](https://flask.palletsprojects.com/) ... (and so on)
+$\color{#00bfff}{Joseph\ Casto}$
