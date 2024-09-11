@@ -3,24 +3,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
-<style>
-    body {
-        font-family: "Merriweather Sans";
-    }
-    #header_content {
-        text-align: center;
-        display: inline;
-    }
-    #linkedin_logo {
-        padding-left: 1em;
-    }
-    .languages {
-        text-align: right;
-    }
-    #cloud_providers {
-        text-align: center;
-    }
-    </style>
 </head>
 <body>
     <div id="header_content">
