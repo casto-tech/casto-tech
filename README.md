@@ -1,9 +1,9 @@
 <html>
 <head>
+<link rel="stylesheet" href="style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div id="header_content">
@@ -15,7 +15,7 @@
             </span>
         </h1>
             <p>
-                <img alt="Banner" id="banner" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20development;Cybersecurity;Network%20Engineering;20%2B%20years%20of%20technology%20experience;Always%20learning%20new%20things&font=Merriweather%20Sans%20Code&center=true&width=640&height=45&color=ffdc40&vCenter=true&pause=1000&size=25"/>
+                <img alt="Banner" src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20development;Cybersecurity;Network%20Engineering;20%2B%20years%20of%20technology%20experience;Always%20learning%20new%20things&font=Merriweather%20Sans%20Code&center=true&width=640&height=45&color=cc6600&vCenter=true&pause=1000&size=25"/>
             </p>
     </div>
     <table id="languages_frameworks">
