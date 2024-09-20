@@ -14,7 +14,7 @@
     </div>
     <div>
         <blockquote cite="https://www.linkedin.com/in/joseph-casto-jr/">
-        Joey is a seasoned tech leader with deep expertise in software development, network engineering,
+        Joseph is a seasoned tech leader with deep expertise in software development, network engineering,
 cybersecurity, AI, and executive leadership. He champions seamless integration of diverse domains
 and prioritizes continuous improvement. His track record of driving infrastructure resilience,
 automation, and efficiency makes him an ideal candidate for any tech-focused role.
