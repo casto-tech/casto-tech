@@ -14,7 +14,10 @@
     </div>
     <div>
         <blockquote cite="https://www.linkedin.com/in/joseph-casto-jr/">
-        Proven expertise in driving infrastructure resiliency, automation, and efficiency. Adept at leading distributed teams, orchestrating cloud operations enhancements, and implementing secure software development practices. Known for pioneering the integration of emerging technologies into organizations’ cybersecurity, engineering, and networking practices; fortifying organizational security through AI-driven threat detection and management through automation. Demonstrated success in being customer-obsessed, guiding team vision, teamwork, best practices, and priorities, while cultivating an environment of empowerment, ownership, belonging, and having a growth mindset. Extensive experience in managing cybersecurity, engineering, and networking teams; ensuring vigilant third-party oversight, project management, governance, and data-loss prevention. Skilled in directing infrastructure management, automation, and efficiency technology; and establishing comprehensive feedback loops post-incident/event which drive continuous improvement to incident response and business continuity plans.
+        Joey is a seasoned tech leader with deep expertise in software development, network engineering,
+cybersecurity, AI, and executive leadership. He champions seamless integration of diverse domains
+and prioritizes continuous improvement. His track record of driving infrastructure resilience,
+automation, and efficiency makes him an ideal candidate for any tech-focused role.
         </blockquote>
     </div>
     <br>
